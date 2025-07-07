@@ -28,7 +28,7 @@
 
 ## 🚧 Current Projects
 
-- 📌 [Sistema de Cadastros](https://github.com/MatheusFreiresDev/CadastroDeNinjas): A simple CRUD REST API with Spring Boot (in progress)
+- 📌 [Sistema de Cadastros](https://github.com/MatheusFreiresDev/CadastroSpringBoot): A simple CRUD REST API with Spring Boot (in progress)
 ---
 
 ## 📊 Most Used Languages
@@ -41,8 +41,8 @@
 
 ## 📬 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/matheusfreiresdev/)
-- 📧 matheusfreiresdev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/matheus-freires-pereira-a74580303/?trk=opento_sprofile_topcard)
+- 📧 matheusfreires717@gmail.com
 
 ---
 
