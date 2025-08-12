@@ -28,7 +28,7 @@
 
 ## 🚧 Current Projects
 
-- 📌 [Sistema de Cadastros](https://github.com/MatheusFreiresDev/CadastroSpringBoot): A simple CRUD REST API with Spring Boot (in progress)
+- 📌 [Sistema de Estoque](https://github.com/MatheusFreiresDev/RomandsEstoque)): inventory and order management project (in progress)
 ---
 
 ## 📊 Most Used Languages
